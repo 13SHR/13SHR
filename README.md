@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome here
+
+I am a maths, physics and computer science student in France.
+Most of my repositories are private since they are not interesting, or are school project, that's why this place seems empty... for now.
 
 <!--
 **13SHR/13SHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
